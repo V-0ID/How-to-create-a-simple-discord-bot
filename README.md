@@ -63,3 +63,4 @@ client.on('message', msg => {
 });
 
 ```
+With this basic setup, you can start creating more advanced commands and features for your Discord bot using Node.js and the Discord API.
