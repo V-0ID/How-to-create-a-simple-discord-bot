@@ -1,4 +1,4 @@
-# How-to-create-a-simple-discord-bot
+# How-to-create-a-simple-discord-bot [Probably Outdated]
 
 > A guide on how to create a simple discord bot. This is a simple introduction to getting your discord bot working, getting advanced commands to work, and connecting databases takes much more effort and experience to consider. Before following this tutorial it is recommended that you have a simple understanding of **JavaScript/Node.JS** and the documentation on the **Discord API**.
 https://discord.com/developers/docs/reference
